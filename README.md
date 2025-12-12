@@ -64,7 +64,7 @@ they were not required for my use case and increased the potential
 attack surface of the system.
 
 If misconfigured or exposed to public networks, these services could
-lead to unauthorised access or lateral movement.
+lead to unauthorised access or movement.
 
 ---
 
